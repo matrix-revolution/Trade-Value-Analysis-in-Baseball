@@ -1,0 +1,101 @@
+,playerID,player_name,predicted WAR_average,actual WAR average,% diff,start_year,trade_year,from_team,to_team,transaction-ID,rmse_scores
+0,branyru01 ,"1779    Russell Oles
+Name: nameGiven, dtype: object",0.0443333333333 ,-0.08,155.416666667,2011 ,2010.0,CLE,SEA,66832.0,0.8984707529399657
+1,gonzaal02 ,"6302    Alexander
+Name: nameGiven, dtype: object",-0.0035 ,0.24,101.458333333,2011 ,2010.0,TOR,ATL,66833.0,0.8984707529399657
+2,escobyu01 ,"4997    Yunel
+Name: nameGiven, dtype: object",1.24566666667 ,3.596666666666667,65.3660797034,2011 ,2010.0,ATL,TOR,66833.0,0.8984707529399657
+3,reyesjo03 ,"14148    Joseph Albert
+Name: nameGiven, dtype: object",-0.031 ,0.0,0,2011 ,2010.0,ATL,TOR,66833.0,0.8984707529399657
+4,callaal01 ,"2408    Alberto Jose
+Name: nameGiven, dtype: object",0.466833333333 ,2.3266666666666667,79.935530086,2011 ,2010.0,KCA,ANA,66834.0,0.8984707529399657
+5,osullse01 ,"12803    Sean Daniel
+Name: nameGiven, dtype: object",-0.0305 ,0.030000000000000002,201.666666667,2011 ,2010.0,ANA,KCA,66834.0,0.8984707529399657
+6,harenda01 ,"7007    Daniel John
+Name: nameGiven, dtype: object",0.224666666667 ,0.06,-274.444444444,2011 ,2010.0,ARI,ANA,66835.0,0.8984707529399657
+7,saundjo01 ,"15034    Joseph Francis
+Name: nameGiven, dtype: object",0.07 ,0.03333333333333333,-110.0,2011 ,2010.0,ANA,ARI,66835.0,0.8984707529399657
+8,rodrira01 ,"14501    Rafael
+Name: nameGiven, dtype: object",0.058 ,None,0,2011 ,2010.0,ANA,ARI,66835.0,0.8984707529399657
+9,wallabr01 ,"17701    Brett Alexander
+Name: nameGiven, dtype: object",-0.0805 ,-0.12666666666666668,36.4473684211,2011 ,2010.0,TOR,HOU,66837.0,0.8984707529399657
+10,reynoma01 ,"14165    Mark Andrew
+Name: nameGiven, dtype: object",1.583 ,-0.11333333333333333,1496.76470588,2011 ,2010.0,ARI,BAL,66839.0,0.8984707529399657
+11,hernada01 ,"7436    David Jose
+Name: nameGiven, dtype: object",0.533833333333 ,0.05666666666666667,-842.058823529,2011 ,2010.0,BAL,ARI,66839.0,0.8984707529399657
+12,mickoka01 ,"11456    Kameron Kraig
+Name: nameGiven, dtype: object",0.002 ,-0.01,120.0,2011 ,2010.0,BAL,ARI,66839.0,0.8984707529399657
+13,hestejo01 ,"7517    John Graves
+Name: nameGiven, dtype: object",0.027 ,-0.06,145.0,2012 ,2011.0,ARI,BAL,66839.0,0.8984707529399657
+14,greinza01 ,"6578    Donald Zachary
+Name: nameGiven, dtype: object",0.537666666667 ,0.46,-16.884057971,2011 ,2010.0,KCA,MIL,66840.0,0.8984707529399657
+15,betanyu01 ,"1244    Yuniesky
+Name: nameGiven, dtype: object",0.0186666666667 ,-1.2,101.555555556,2011 ,2010.0,KCA,MIL,66840.0,0.8984707529399657
+16,jeffrje01 ,"8317    Jeremy Ross
+Name: nameGiven, dtype: object",1.20233333333 ,0.01,-11923.3333333,2011 ,2010.0,MIL,KCA,66840.0,0.8984707529399657
+17,escobal02 ,"4991    Alcides
+Name: nameGiven, dtype: object",0.462833333333 ,2.1133333333333337,78.0993690852,2011 ,2010.0,MIL,KCA,66840.0,0.8984707529399657
+18,cainlo01 ,"2385    Lorenzo Lamar
+Name: nameGiven, dtype: object",0.3905 ,1.76,77.8125,2011 ,2010.0,MIL,KCA,66840.0,0.8984707529399657
+19,cabreor01 ,"2368    Orlando Luis
+Name: nameGiven, dtype: object",0.0 ,None,0,2012 ,2011.0,CLE,SFN,66844.0,0.8984707529399657
+20,hairsje02 ,"6820    Jerry Wayne
+Name: nameGiven, dtype: object",0.0 ,-0.044999999999999984,100.0,2012 ,2011.0,WAS,MIL,66846.0,0.8984707529399657
+21,cabreme01 ,"2366    Melky
+Name: nameGiven, dtype: object",0.117333333333 ,2.5566666666666666,95.4106910039,2012 ,2011.0,KCA,SFN,66850.0,0.8984707529399657
+22,sanchjo01 ,"14942    Jonathan Omar
+Name: nameGiven, dtype: object",0.269333333333 ,-0.015000000000000001,1895.55555556,2012 ,2011.0,SFN,KCA,66850.0,0.8984707529399657
+23,cunniaa01 ,"3764    Aaron R.
+Name: nameGiven, dtype: object",0.574333333333 ,-0.52,210.448717949,2012 ,2011.0,SDN,CLE,66857.0,0.8984707529399657
+24,latosma01 ,"9557    Mathew Adam
+Name: nameGiven, dtype: object",0.765666666667 ,0.043333333333333335,-1666.92307692,2012 ,2011.0,SDN,CIN,66858.0,0.8984707529399657
+25,alonsyo01 ,"244    Yonder
+Name: nameGiven, dtype: object",-0.01 ,1.33,100.751879699,2012 ,2011.0,CIN,SDN,66858.0,0.8984707529399657
+26,volqued01 ,"17578    Edinson
+Name: nameGiven, dtype: object",-0.031 ,-0.21666666666666667,85.6923076923,2012 ,2011.0,CIN,SDN,66858.0,0.8984707529399657
+27,zambrca01 ,"18772    Carlos Alberto
+Name: nameGiven, dtype: object",0.305 ,None,0,2013 ,2012.0,CHN,MIA,66862.0,0.8984707529399657
+28,volstch01 ,"17579    Christopher Kenneth
+Name: nameGiven, dtype: object",0.132666666667 ,0.0,0,2013 ,2012.0,MIA,CHN,66862.0,0.8984707529399657
+29,carpech02 ,"2584    Christopher John
+Name: nameGiven, dtype: object",0.288 ,None,0,2013 ,2012.0,CHN,BOS,66866.0,0.8984707529399657
+30,hoovejj01 ,"7833    James Allen
+Name: nameGiven, dtype: object",0.972166666667 ,0.05333333333333334,-1722.8125,2013 ,2012.0,ATL,CIN,66870.0,0.8984707529399657
+31,francju02 ,"5585    Juan Ramon
+Name: nameGiven, dtype: object",1.611 ,0.265,-507.924528302,2013 ,2012.0,CIN,ATL,66870.0,0.8984707529399657
+32,stewach01 ,"16322    Christopher David
+Name: nameGiven, dtype: object",0.217 ,0.42,48.3333333333,2013 ,2012.0,SFN,NYA,66872.0,0.8984707529399657
+33,kontoge01 ,"9209    George Nicholas
+Name: nameGiven, dtype: object",0.847166666667 ,0.0033333333333333335,-25315.0,2013 ,2012.0,NYA,SFN,66872.0,0.8984707529399657
+34,byrdma01 ,"2341    Marlon Jerrard
+Name: nameGiven, dtype: object",0.0266666666667 ,2.5033333333333334,98.9347536618,2013 ,2012.0,CHN,BOS,66876.0,0.8984707529399657
+35,bowdemi01 ,"1640    Michael Matthew
+Name: nameGiven, dtype: object",0.298166666667 ,0.02,-1390.83333333,2013 ,2012.0,BOS,CHN,66876.0,0.8984707529399657
+36,hudsoky01 ,"7988    Kyle Jordan
+Name: nameGiven, dtype: object",0.271 ,None,0,2013 ,2012.0,TBA,PHI,66880.0,0.8984707529399657
+37,thompri02 ,"16969    Richard Charles
+Name: nameGiven, dtype: object",0.0 ,None,0,2013 ,2012.0,PHI,TBA,66880.0,0.8984707529399657
+38,ruggiju01 ,"14759    Justin Marshall
+Name: nameGiven, dtype: object",0.130166666667 ,0.10333333333333333,-25.9677419355,2013 ,2012.0,HOU,MIA,66882.0,0.8984707529399657
+39,youklke01 ,"18702    Kevin Edmund
+Name: nameGiven, dtype: object",0.123833333333 ,-0.15,182.555555556,2013 ,2012.0,BOS,CHA,66884.0,0.8984707529399657
+40,lillibr01 ,"9846    Brent Stuart
+Name: nameGiven, dtype: object",-0.00166666666667 ,-0.64,99.7395833333,2013 ,2012.0,CHA,BOS,66884.0,0.8984707529399657
+41,stewaza01 ,"16339    Zachary Robert
+Name: nameGiven, dtype: object",0.384833333333 ,None,0,2013 ,2012.0,CHA,BOS,66884.0,0.8984707529399657
+42,thomeji01 ,"16936    James Howard
+Name: nameGiven, dtype: object",0.0 ,None,0,2013 ,2012.0,PHI,BAL,66886.0,0.8984707529399657
+43,janispa01 ,"8282    Paul Ryan
+Name: nameGiven, dtype: object",0.233666666667 ,-0.08,392.083333333,2013 ,2012.0,CIN,ATL,66890.0,0.8984707529399657
+44,redmoto01 ,"14009    Todd Richard
+Name: nameGiven, dtype: object",0.252333333333 ,0.004999999999999999,-4946.66666667,2013 ,2012.0,ATL,CIN,66890.0,0.8984707529399657
+45,guthrje01 ,"6739    Jeremy
+Name: nameGiven, dtype: object",0.0 ,0.01,100.0,2013 ,2012.0,COL,KCA,66892.0,0.8984707529399657
+46,sanchjo01 ,"14942    Jonathan Omar
+Name: nameGiven, dtype: object",0.01 ,0.02,50.0,2013 ,2012.0,KCA,COL,66892.0,0.8984707529399657
+47,enrigba01 ,"4944    Barry Ryan
+Name: nameGiven, dtype: object",0.0356666666667 ,0.0,0,2013 ,2012.0,ARI,ANA,66900.0,0.8984707529399657
+48,suzukic01 ,"16599    Ichiro
+Name: nameGiven, dtype: object",0.0 ,0.46,100.0,2013 ,2012.0,SEA,NYA,66902.0,0.8984707529399657
+49,farquda01 ,"5141    Daniel Andres
+Name: nameGiven, dtype: object",0.417666666667 ,0.013333333333333334,-3032.5,2013 ,2012.0,NYA,SEA,66902.0,0.8984707529399657
